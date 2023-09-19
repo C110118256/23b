@@ -73,5 +73,6 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 | *Still*  | `rander` | **Nicely** |
 |    1     |    2     |      3 |
 |    4     |    5     |      6 |
-
-![NKUST](nkust.png "高科")
+---
+# video
+[![video](nkust.png)]( "video")
