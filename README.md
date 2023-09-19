@@ -9,7 +9,7 @@
 
 ----
 
-![NKUST]( "nkust")
+![NKUST](nkust.png "nkust")
 
 - [ ] to do this
 - [x] 1st thing
@@ -25,9 +25,9 @@ var s= "Javascript highlights ";
 alsert(s)
 ```
 ---
-Emphasism aka italicsm with asterisks or underscores
+Emphasism aka italicsm with *asterisks* or *underscores*
 Strong emphasis, aka boldm with **asterisks** or **underscores**
-Combined emphasis with **asterisks and underscores.**
+Combined emphasis with **asterisks and *underscores.***
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
@@ -74,4 +74,4 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 |    1     |    2     |      3 |
 |    4     |    5     |      6 |
 
-![NKUST](newhead.png "NKUST IM")
+![NKUST](nkust.png "高科")
