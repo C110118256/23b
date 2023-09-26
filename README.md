@@ -74,4 +74,4 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 |    1     |    2     |      3 |
 ---
 # video
-[![video](nkust.png)]( "video")
+[![video](nkust.png)]("video")
