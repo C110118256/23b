@@ -6,4 +6,9 @@ public class CTriangle extends CShap{
     
   }
 }
+public class Main{
+  public class main(String[] arg){
+    System.out.println("hello");
+  }
+}
 ```
