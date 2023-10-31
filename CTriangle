@@ -1,4 +1,4 @@
-``` java
+```java
 
 public class CTriangle extends CShap{
   private double area, color;
